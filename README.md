@@ -1,5 +1,5 @@
 # IA
-Inteligencia Artificial
+Inteligencia Artificial y Machine Learning
 
 Aquí presento proyectos sobre IA que realizo.
 
